@@ -1,0 +1,2 @@
+# mvnImport
+本脚本用于将别人的maven库结构上传至本地库，用于maven项目代码迁移时，maven库的迁移
